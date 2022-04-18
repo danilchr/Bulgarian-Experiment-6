@@ -5,4 +5,5 @@
 .PennController-myController.Question-Question li {
     min-width: 5em;
     pointer-events: none;
+    font-size: 18pt;
 }
