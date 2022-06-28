@@ -1,9 +1,0 @@
-.PennController-myController.Question-Question ol {
-    list-style: none;
-    display: flex;
-}
-.PennController-myController.Question-Question li {
-    min-width: 10em;
-    pointer-events: none;
-    font-size: 18pt;
-}
